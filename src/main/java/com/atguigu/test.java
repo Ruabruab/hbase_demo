@@ -111,6 +111,7 @@ public class test {
         }
 //        6、关闭表对象
         table.close();
+        System.out.println("hello");
     }
 
     @AfterTest
