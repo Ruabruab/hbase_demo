@@ -113,6 +113,7 @@ public class test {
         table.close();
         System.out.println("hello");
         System.out.println("world");
+        System.out.println("hot-fix");
     }
 
     @AfterTest
