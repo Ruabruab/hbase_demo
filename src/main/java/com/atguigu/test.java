@@ -117,6 +117,7 @@ public class test {
         System.out.println("master");
         System.out.println("hot");
         System.out.println("gitee");
+        System.out.println("fail");
     }
 
     @AfterTest
