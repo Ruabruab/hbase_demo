@@ -116,6 +116,7 @@ public class test {
         System.out.println("hot-fix");
         System.out.println("master");
         System.out.println("hot");
+        System.out.println("gitee");
     }
 
     @AfterTest
